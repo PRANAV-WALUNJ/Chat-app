@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Pranav\\Learning\\Chat-app\\ChatAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C251267E-6C07-4C32-9EC5-39A685F87553}|ChatAPI\\ChatAPI.csproj|c:\\pranav\\learning\\chat-app\\chatapi\\chatapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C251267E-6C07-4C32-9EC5-39A685F87553}|ChatAPI\\ChatAPI.csproj|solutionrelative:chatapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C251267E-6C07-4C32-9EC5-39A685F87553}|ChatAPI\\ChatAPI.csproj|c:\\pranav\\learning\\chat-app\\chatapi\\chatapi\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C251267E-6C07-4C32-9EC5-39A685F87553}|ChatAPI\\ChatAPI.csproj|solutionrelative:chatapi\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C251267E-6C07-4C32-9EC5-39A685F87553}|ChatAPI\\ChatAPI.csproj|c:\\pranav\\learning\\chat-app\\chatapi\\chatapi\\models\\userconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C251267E-6C07-4C32-9EC5-39A685F87553}|ChatAPI\\ChatAPI.csproj|solutionrelative:chatapi\\models\\userconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C251267E-6C07-4C32-9EC5-39A685F87553}|ChatAPI\\ChatAPI.csproj|c:\\pranav\\learning\\chat-app\\chatapi\\chatapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C251267E-6C07-4C32-9EC5-39A685F87553}|ChatAPI\\ChatAPI.csproj|solutionrelative:chatapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C251267E-6C07-4C32-9EC5-39A685F87553}|ChatAPI\\ChatAPI.csproj|c:\\pranav\\learning\\chat-app\\chatapi\\chatapi\\chatapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C251267E-6C07-4C32-9EC5-39A685F87553}|ChatAPI\\ChatAPI.csproj|solutionrelative:chatapi\\chatapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Pranav\\Learning\\Chat-app\\ChatAPI\\ChatAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ChatAPI\\Program.cs",
+              "ToolTip": "C:\\Pranav\\Learning\\Chat-app\\ChatAPI\\ChatAPI\\Program.cs",
+              "RelativeToolTip": "ChatAPI\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T05:32:24.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Pranav\\Learning\\Chat-app\\ChatAPI\\ChatAPI\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "ChatAPI\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Pranav\\Learning\\Chat-app\\ChatAPI\\ChatAPI\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "ChatAPI\\Hubs\\ChatHub.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwAkAAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T05:17:52.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserConnection.cs",
+              "DocumentMoniker": "C:\\Pranav\\Learning\\Chat-app\\ChatAPI\\ChatAPI\\Models\\UserConnection.cs",
+              "RelativeDocumentMoniker": "ChatAPI\\Models\\UserConnection.cs",
+              "ToolTip": "C:\\Pranav\\Learning\\Chat-app\\ChatAPI\\ChatAPI\\Models\\UserConnection.cs",
+              "RelativeToolTip": "ChatAPI\\Models\\UserConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T05:14:50.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Pranav\\Learning\\Chat-app\\ChatAPI\\ChatAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ChatAPI\\appsettings.json",
+              "ToolTip": "C:\\Pranav\\Learning\\Chat-app\\ChatAPI\\ChatAPI\\appsettings.json",
+              "RelativeToolTip": "ChatAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-29T05:03:27.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatAPI.http",
+              "DocumentMoniker": "C:\\Pranav\\Learning\\Chat-app\\ChatAPI\\ChatAPI\\ChatAPI.http",
+              "RelativeDocumentMoniker": "ChatAPI\\ChatAPI.http",
+              "ToolTip": "C:\\Pranav\\Learning\\Chat-app\\ChatAPI\\ChatAPI\\ChatAPI.http",
+              "RelativeToolTip": "ChatAPI\\ChatAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-29T05:02:17.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
