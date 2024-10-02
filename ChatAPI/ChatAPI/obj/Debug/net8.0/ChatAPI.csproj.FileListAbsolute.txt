@@ -20,6 +20,7 @@ C:\Pranav\Learning\Chat-app\ChatAPI\ChatAPI\obj\Debug\net8.0\ChatAPI.AssemblyInf
 C:\Pranav\Learning\Chat-app\ChatAPI\ChatAPI\obj\Debug\net8.0\ChatAPI.csproj.CoreCompileInputs.cache
 C:\Pranav\Learning\Chat-app\ChatAPI\ChatAPI\obj\Debug\net8.0\ChatAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Pranav\Learning\Chat-app\ChatAPI\ChatAPI\obj\Debug\net8.0\ChatAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Pranav\Learning\Chat-app\ChatAPI\ChatAPI\obj\Debug\net8.0\ChatAPI.sourcelink.json
 C:\Pranav\Learning\Chat-app\ChatAPI\ChatAPI\obj\Debug\net8.0\staticwebassets.build.json
 C:\Pranav\Learning\Chat-app\ChatAPI\ChatAPI\obj\Debug\net8.0\staticwebassets.development.json
 C:\Pranav\Learning\Chat-app\ChatAPI\ChatAPI\obj\Debug\net8.0\staticwebassets\msbuild.ChatAPI.Microsoft.AspNetCore.StaticWebAssets.props
