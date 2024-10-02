@@ -28,8 +28,19 @@
     border: 2px solid white;
     transition: all 0.3s ease;
   }
+
+  .start-chat-btn-friend {
+    border: 2px solid white;
+    transition: all 0.3s ease;
+    margin-left: 10px;
+  }
+
   
   .start-chat-btn:hover {
+    background-color: white;
+    color: black;
+  }
+  .start-chat-btn-friend:hover {
     background-color: white;
     color: black;
   }

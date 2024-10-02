@@ -1,7 +1,10 @@
-import React from "react";
+import React, { useState } from "react";
 import { Container, Row, Col, Button } from "react-bootstrap";
 import Chatroom from "./Chatroom";
-import "./css/Home.css"
+import FriendChat from "./FriendChat";
+import "./css/Home.css";
+import Waitingroom from "./Waitingroom";
+import ChatContainer from "./ChatContainer";
 
 interface HomeProps {
   conn: any;
@@ -11,6 +14,7 @@ interface HomeProps {
 }
 
 const Home: React.FC<HomeProps> = ({ conn, messages, sendMessage, JoinChatRoom }) => {
+
   return (
     <div className="home-page">
       <div className="overlay">
@@ -19,18 +23,13 @@ const Home: React.FC<HomeProps> = ({ conn, messages, sendMessage, JoinChatRoom }
             <Col>
               <h1 className="display-4 text-white">Welcome to the Interactive Chat App</h1>
               <p className="lead text-white mb-4">Connect with your friends and colleagues instantly.</p>
-              {!conn ? (
-                <Button
-                  onClick={() => JoinChatRoom("YourUsername", "MainRoom")}
-                  variant="light"
-                  size="lg"
-                  className="start-chat-btn"
-                >
-                  Join Chatroom
-                </Button>
-              ) : (
-                <Chatroom messages={messages} sendMessage={sendMessage} />
-              )}
+              
+              <ChatContainer
+                conn={conn}
+                messages={messages}
+                sendMessage={sendMessage}
+                JoinChatRoom={JoinChatRoom}
+              />
             </Col>
           </Row>
         </Container>
